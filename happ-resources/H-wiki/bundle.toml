@@ -9,7 +9,6 @@ uri = "https://raw.githubusercontent.com/JhonatanHern/holo-wiki-back/master/holo
 
 [[UIs]]
 name = "H-Wiki"
-
 uri = "https://github.com/JhonatanHern/holo-wiki-back/blob/master/holowiki.zip"
 
 [[UIs.instance_references]]
