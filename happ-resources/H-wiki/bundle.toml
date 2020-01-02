@@ -5,11 +5,11 @@ bridges = []
 name = "holo_wiki"
 id = "__holo_wiki"
 dna_hash = "QmQKTqX4UwY2RDKt3rvoCd7ksXit1Syg9rXCrFiq2RcqA3"
-uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/untagged-d2902ed7d5d1ffe772cb/holo_wiki.dna.json"
+uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/0.1/holo_wiki.dna.json"
 
 [[UIs]]
 name = "H-Wiki"
-uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/untagged-d2902ed7d5d1ffe772cb/holowiki.zip"
+uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/0.1/holowiki.zip"
 
 [[UIs.instance_references]]
 ui_handle = "holo_wiki"
