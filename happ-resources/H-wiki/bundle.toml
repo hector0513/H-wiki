@@ -4,7 +4,7 @@ bridges = []
 [[instances]]
 name = "holo_wiki"
 id = "__holo_wiki"
-dna_hash = "QmQKTqX4UwY2RDKt3rvoCd7ksXit1Syg9rXCrFiq2RcqA3"
+dna_hash = "QmWkgSxiFMW13V68dzdfr6XhD14n9bpHWNDrVewQb5Ur7V"
 uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/0.1/holo_wiki.dna.json"
 
 [[UIs]]
