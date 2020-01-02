@@ -5,7 +5,7 @@ bridges = []
 name = "holo_wiki"
 id = "__holo_wiki"
 dna_hash = "QmQKTqX4UwY2RDKt3rvoCd7ksXit1Syg9rXCrFiq2RcqA3"
-uri = "https://github.com/JhonatanHern/holo-wiki-back/blob/master/holo_wiki.dna.json"
+uri = "https://raw.githubusercontent.com/JhonatanHern/holo-wiki-back/master/holo_wiki.dna.json"
 
 [[UIs]]
 name = "H-Wiki"
