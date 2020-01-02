@@ -9,8 +9,7 @@ uri = "https://github.com/JhonatanHern/holo-wiki-back/blob/master/holo_wiki.dna.
 
 [[UIs]]
 name = "H-Wiki"
-id = "H-Wiki-app"
-ui_bundle_hash = "Qm34abcde"
+
 uri = "https://github.com/JhonatanHern/holo-wiki-back/blob/master/holowiki.zip"
 
 [[UIs.instance_references]]
