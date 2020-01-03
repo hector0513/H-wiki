@@ -2,8 +2,8 @@
 bridges = []
 
 [[instances]]
-name = "holo_wiki"
-id = "__holo_wiki"
+name = "H_Wiki"
+id = "__H_Wiki"
 dna_hash = "QmVddZx7LgKFCVrow4eqg6QUhVKJWTeumkiqLQ3mbmgcVj"
 uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/0.1/holo_wiki.dna.json"
 
@@ -12,5 +12,5 @@ name = "H-Wiki"
 uri = "https://github.com/JhonatanHern/holo-wiki-back/releases/download/0.1/hwiki.zip"
 
 [[UIs.instance_references]]
-ui_handle = "holo_wiki"
-instance_id = "__holo_wiki"
+ui_handle = "__H_Wiki"
+instance_id = "__H_Wiki"
