@@ -42,8 +42,8 @@
   {
     "name": "H wiki",
     "directory": "H-wiki",
-    "github": "https://github.com/JhonatanHern/holo-wiki-back",
-    "icon": null,
+    "github": "https://github.com/eyss/holo-wiki-back",
+    "icon": "https://avatars2.githubusercontent.com/u/35077054?s=200&v=4",
     "screenshot": "https://raw.githubusercontent.com/holochain/peer-chat/develop/doc/screen.png",
     "description": "A simple chat app designed to get new users up, running and developing on Holochain"
   }
