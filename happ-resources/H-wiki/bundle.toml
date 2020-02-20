@@ -4,7 +4,7 @@ bridges = []
 [[instances]]
 name = "H_Wiki"
 id = "__H_Wiki"
-dna_hash = "QmTJwkhiFKUeK7QsRCjk1t6XCBAm31bkmHfsAEa6ZuvxCa"
+dna_hash = "QmdWj9ySMTPqjJxVsM87wjxgFtAymcEyYEYPJpgNcbC35x"
 uri = "https://github.com/eyss/h-wiki-back/releases/download/0.2/h-wiki-back.dna.json"
 
 [[UIs]]
